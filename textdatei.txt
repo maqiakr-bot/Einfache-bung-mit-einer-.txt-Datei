@@ -1,5 +1,9 @@
 Teamnotiz
 
+<<<<<<< HEAD
 Status: in Bearbeitung
+=======
+Status: erledigt
+>>>>>>> feature/status-erledigt
 
 Aufgabe: Dokumentation prüfen
