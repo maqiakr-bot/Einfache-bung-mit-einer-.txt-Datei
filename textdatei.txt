@@ -1,5 +1,5 @@
 Teamnotiz
 
-Status: offen
+Status: in Bearbeitung
 
 Aufgabe: Dokumentation prüfen
